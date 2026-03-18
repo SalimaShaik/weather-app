@@ -22,8 +22,6 @@ A responsive Weather Application built using HTML, CSS, and JavaScript.
 3. Replace YOUR_API_KEY with your OpenWeather API key
 4. Open index.html in browser
 
-## 📸 Preview
-(Add screenshots here)
 
 ---
 
